@@ -7,11 +7,12 @@ Privacy compliant chat interface for pdfs.
 Reducing time-to-onboarding for consultants, PMs, TPMs and engineers into Cloud projects.
 
 ## Features
-- Pdf document ingest (pdf size tbd)
-- Multiple pdf document ingest
-- Turn-based chat interface to converse against pdf content (memory size, number of turns, tbd)
-- Hosted on scalable server (tbd)
-- tbd
+- Pdf document ingest (**pdf size tbd**)
+- Multiple pdf document ingest (**number of files tbd**)
+- Turn-based chat interface to converse against pdf content (**memory size, number of turns, tbd**)
+- Hosted on scalable server (**tbd which one**)
+- Explainability (**tbd**)
+- More features (**tbd**)
 
 ### Supported use-cases:
 
@@ -24,15 +25,22 @@ Scenario 3: New PM ...
 Scenario 4: New TPM ...
 
 ## Usage
+
 The Content Similarity is for internal usage by the WTMAP only.
 
 ## Technology Stack
+
 POC
 - Python - programming language
 - OpenAI - source of state-of-the-art LLMs
 - Streamlit - service deployment platform
 - Lanchain - building conversational agents
 
+Deployment on scalable server
+- Python - programming language
+- OpenAI - source of state-of-the-art LLMs
+- CloudRun - Google serverless service deployment platform
+- Lanchain - building conversational agents
 
 ## Architechture
 
