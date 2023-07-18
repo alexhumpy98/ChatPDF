@@ -23,50 +23,29 @@ Scenario 3: New PM ...
 
 Scenario 4: New TPM ...
 
-
 ## Usage
 The Content Similarity is for internal usage by the WTMAP only.
 
-The services are hosted via **local/public/cloud service TBD** and available at: **link TBD**
-
-```
-### Dictionary of valid input
-
-#### Text types
-- "subject line" 
-- "headline"  
-- "subheadline" 
-- "copy text" 
-- "CTA" 
-
-- "instagram caption"
-- "facebook post"
-
-- "push notification"
-- "SMS message"
-
-#### image types (To be developed)
-- "image_url"
-
 ## Technology Stack
-- API Framework: FastAPI
+POC
+- Python - programming language
+- OpenAI - source of state-of-the-art LLMs
+- Streamlit - service deployment platform
+- Lanchain - building conversational agents
+
 
 ## Architechture
-- TBD
 
 ## Contribution
-For all contributions, please refer to @mhovgaard, @kaaquist, @ulrikpl and @plesnera
 
 ## Issues
-- The service is currently a mock service for alignment with the Catalyst team.
-- No similarity searches are actual.
 
 ## FAQ
 - How do I ... (no one has asked yet)
 
 ## Documentation
 All models and code is documented in the docs/ directory.
-[Documentation](docs/)
+**insert link**
 
 ### Naming conventions
 It's important to be consistent with your naming conventions to ensure clarity and ease of navigation for developers and users accessing your documentation.
