@@ -33,14 +33,15 @@ The Content Similarity is for internal usage by the WTMAP only.
 POC
 - Python - programming language
 - OpenAI - source of state-of-the-art LLMs
-- Streamlit - service deployment platform
-- Lanchain - building conversational agents
+- Streamlit - web framework
+- Lanchain - LLM framework
 
 Deployment on scalable server
 - Python - programming language
 - OpenAI - source of state-of-the-art LLMs
-- CloudRun - Google serverless service deployment platform
-- Lanchain - building conversational agents
+- Streamlit - Web framework
+- Google CloudRun - Google serverless service deployment platform
+- Lanchain - LLM framework
 
 ## Architechture
 
